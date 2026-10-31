@@ -107,4 +107,5 @@ Email: swarajsonalkar99@gmail.com
 ---
 
 *Building a smarter and more organized digital security workspace.*
+
 Make a separate static in oroject directory and then paste the html,css and javascript file
